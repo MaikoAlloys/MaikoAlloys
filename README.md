@@ -1,16 +1,35 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**MaikoAlloys/MaikoAlloys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Project: eHouseholds System 
+A fully functional online eCommerce website built using **PHP** and **MySQL**, designed for managing products and enabling seamless online shopping.  
 
-Here are some ideas to get you started:
+### Key Features:
+- User-friendly client-side interaction.
+- Comprehensive admin panel for managing website settings, orders, and customers.
+- Functional cart system with checkout and order history.
+- Product categories with featured, latest, and popular sections.
+- Responsive UI using Bootstrap for an engaging user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **[View the eHouseholds Repository Here](https://github.com/MaikoAlloys/eHouseholdsKE)**
+
+---
+
+### About Me  
+Hi there! I'm **Maiko Alloys**, a Computer Science graduate and an IT enthusiast dedicated to crafting innovative solutions that make a difference. I specialize in backend web development, currently advancing my skills through the ALX Software Engineering program.  
+
+My expertise includes:  
+- **Languages and Frameworks:** Python (with Django framework), PHP, and MySQL for database management.  
+- **Frontend Technologies:** Proficient in HTML and CSS, with a foundational understanding of Java and JavaScript.  
+
+Passionate about learning and building impactful web-based projects, I invite you to explore my repositories and connect with me!
+
+📫 **Contact:** maikoa052@gmail.com  
+🌐 **Website:** [your-portfolio-site.com](https://maikoalloys.netlify.app/)  
+
+---
+
+### Other Projects
+- Tim Liquor Store Website(#)
+- Bijon 3D Mobile Application(#)
+
+Thank you for visiting my profile! 🚀
