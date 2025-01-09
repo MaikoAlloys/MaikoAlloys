@@ -24,7 +24,7 @@ My expertise includes:
 Passionate about learning and building impactful web-based projects, I invite you to explore my repositories and connect with me!
 
 📫 **Contact:** maikoa052@gmail.com  
-🌐 **Website:** [your-portfolio-site.com](https://maikoalloys.netlify.app/)  
+🌐 **Website:** [My-portfolio-site.com](https://maikoalloys.netlify.app/)  
 
 ---
 
