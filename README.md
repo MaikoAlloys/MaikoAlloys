@@ -18,8 +18,8 @@ A fully functional online eCommerce website built using **PHP** and **MySQL**, d
 Hi there! I'm **Maiko Alloys**, a Computer Science graduate and an IT enthusiast dedicated to crafting innovative solutions that make a difference. I specialize in backend web development, currently advancing my skills through the ALX Software Engineering program.  
 
 My expertise includes:  
-- **Languages and Frameworks:** Python (with Django framework), PHP, and MySQL for database management.  
-- **Frontend Technologies:** Proficient in HTML and CSS, with a foundational understanding of Java and JavaScript.  
+- **Languages and Frameworks:** Python (with Django framework), PHP, MySQL for database management and with foundational understanding of Java.  
+- **Frontend Technologies:** Proficient in HTML and CSS, with a foundational understanding of JavaScript.  
 
 Passionate about learning and building impactful web-based projects, I invite you to explore my repositories and connect with me!
 
